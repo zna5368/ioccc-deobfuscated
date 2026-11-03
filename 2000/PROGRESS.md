@@ -11,7 +11,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] jarijyrki
 - [E] natori
 - [D] primenum
-- [Q] rince
+- [E] rince
 - [Q] robison
 - [Q] schneiderwent
 - [Q] thadgavin

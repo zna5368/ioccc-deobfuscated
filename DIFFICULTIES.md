@@ -158,6 +158,7 @@
 - 1998/df
 - 1998/fanf
 - 2000/bmeyer
+- 2000/rince
 
 ## Catastrophic
 
