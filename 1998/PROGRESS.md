@@ -15,4 +15,4 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] schweikh1
 - [E] schweikh2
 - [D] schweikh3
-- [Q] tomtorfs
+- [D] tomtorfs

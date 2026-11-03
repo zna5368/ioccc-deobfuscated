@@ -33,6 +33,7 @@
 - 1996/schweikh3
 - 1996/westley
 - 1998/dlowe
+- 1998/tomtorfs
 
 ## Medium
 
