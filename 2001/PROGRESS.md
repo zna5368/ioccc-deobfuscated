@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] coupard
 - [E] ctk
 - [E] dgbeards
-- [Q] herrmann1
+- [E] herrmann1
 - [Q] herrmann2
 - [Q] jason
 - [Q] kev

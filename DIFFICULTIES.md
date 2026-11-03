@@ -173,6 +173,7 @@
 
 - 1993/dgibson
 - 2001/anonymous
+- 2001/herrmann1
 
 ## Horrific
 
