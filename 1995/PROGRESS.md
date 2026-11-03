@@ -10,7 +10,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] heathbar
 - [Q] leo
 - [E] makarios
-- [Q] savastio
+- [D] savastio
 - [Q] schnitzi
 - [Q] spinellis
 - [Q] vanschnitz

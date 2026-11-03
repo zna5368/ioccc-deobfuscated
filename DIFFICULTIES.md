@@ -66,6 +66,7 @@
 - 1995/dodsond2
 - 1995/esde
 - 1995/makarios
+- 1995/savastio
 
 ## Hard
 
