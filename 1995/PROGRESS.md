@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] dodsond1
 - [E] dodsond2
 - [D] esde
-- [Q] garry
+- [D] garry
 - [Q] heathbar
 - [Q] leo
 - [Q] makarios

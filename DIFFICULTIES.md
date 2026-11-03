@@ -27,6 +27,7 @@
 - 1994/horton
 - 1994/smr
 - 1994/westley
+- 1995/garry
 
 ## Medium
 
