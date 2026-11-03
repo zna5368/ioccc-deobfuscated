@@ -149,6 +149,7 @@
 - 2000/robison
 - 2001/bellard
 - 2001/cheong
+- 2001/coupard
 
 ## Insane
 
