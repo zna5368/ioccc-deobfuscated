@@ -85,6 +85,7 @@
 - 1993/ant
 - 1993/ejb
 - 1993/jonth
+- 1993/leo
 
 ## Insane
 

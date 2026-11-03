@@ -7,7 +7,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] dgibson
 - [D] ejb
 - [E] jonth
-- [Q] leo
+- [E] leo
 - [Q] lmfjyh
 - [Q] plummer
 - [Q] rince
