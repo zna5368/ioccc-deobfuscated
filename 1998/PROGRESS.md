@@ -1,0 +1,18 @@
+# 1998
+
+D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
+
+- [E] banks
+- [Q] bas1
+- [Q] bas2
+- [Q] chaos
+- [Q] df
+- [Q] dlowe
+- [Q] dloweneil
+- [Q] dorssel
+- [Q] fanf
+- [Q] schnitzi
+- [Q] schweikh1
+- [Q] schweikh2
+- [Q] schweikh3
+- [Q] tomtorfs
