@@ -7,7 +7,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] horton
 - [E] imc
 - [E] ldb
-- [Q] schnitzi
+- [D] schnitzi
 - [Q] shapiro
 - [Q] smr
 - [Q] tvr

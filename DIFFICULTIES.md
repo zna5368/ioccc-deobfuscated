@@ -54,6 +54,7 @@
 - 1994/dodsond1
 - 1994/dodsond2
 - 1994/ldb
+- 1994/schnitzi
 
 ## Hard
 
