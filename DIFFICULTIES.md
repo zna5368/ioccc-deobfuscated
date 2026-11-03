@@ -74,6 +74,7 @@
 ## Insane
 
 - 1991/davidguy
+- 1992/albert
 
 ## Terrifying
 
