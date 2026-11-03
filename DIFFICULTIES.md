@@ -7,6 +7,7 @@
 - 1985/lycklama
 - 1986/applin
 - 1986/bright
+- 1986/marshall
 
 ## Medium
 
