@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] baruch
 - [E] cmills
-- [Q] dds
+- [E] dds
 - [D] dg
 - [Q] jaw
 - [Q] pjr
