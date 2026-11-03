@@ -3,7 +3,7 @@
 D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [E] applin
-- [Q] dale
+- [D] dale
 - [Q] isaak
 - [Q] litmaath
 - [Q] phillipps

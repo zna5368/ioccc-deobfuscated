@@ -22,6 +22,7 @@
 - 1986/hague
 - 1986/stein
 - 1987/heckbert
+- 1988/dale
 
 ## Hard
 
