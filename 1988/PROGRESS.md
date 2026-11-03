@@ -1,0 +1,13 @@
+# 1988
+
+D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
+
+- [E] applin
+- [Q] dale
+- [Q] isaak
+- [Q] litmaath
+- [Q] phillipps
+- [Q] reddy
+- [Q] robison
+- [Q] spinellis
+- [Q] westley

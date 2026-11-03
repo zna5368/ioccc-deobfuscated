@@ -32,6 +32,7 @@
 - 1986/wall
 - 1987/lievaart
 - 1987/wall
+- 1988/applin
 
 ## Insane
 
