@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] fubar
 - [E] jar.1
-- [Q] jar.2
+- [D] jar.2
 - [Q] ovdluhe
 - [Q] paul
 - [Q] robison
