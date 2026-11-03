@@ -7,7 +7,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] bmeyer
 - [E] briddlebane
 - [D] dhyang
-- [Q] dlowe
+- [D] dlowe
 - [Q] jarijyrki
 - [Q] natori
 - [Q] primenum
