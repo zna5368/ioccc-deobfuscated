@@ -5,7 +5,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] anonymous
 - [E] arachnid
 - [E] burley
-- [Q] gavare
+- [E] gavare
 - [Q] gavin
 - [Q] hibachi
 - [Q] hoyle
