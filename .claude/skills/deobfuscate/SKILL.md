@@ -37,9 +37,9 @@ Ignore warnings from `make -f ${CLAUDE_SKILL_DIR}/Makefile basic` about include
 errors. The include directives are prevented from being found so that the
 simple.c file does not get crowded with all their headers.
 
-Do not write an explanation of what the program does or any other notes in
-TECHNIQUES.md. That is already done in the README.md. The explanation should be
-written such that a beginner could understand.
+Do not write what the program does or any other notes in TECHNIQUES.md. That is
+already done in the README.md. The explanation for each technique should be
+written such that a beginner programmer could understand.
 
 The original.sh and verify.sh scripts are used to verify simple.c still matches
 the output of the original program. If the entry does not have a try.sh, it
@@ -57,9 +57,8 @@ can be left alone.
 
 Return the name of the entry and status that says deobfuscated if the entry was
 deobfuscated and verified, unverified if the entry was deobfuscated but is
-missing a try.sh script or the try.sh requires some input or is random, in
-progress if the deobfuscation was interrupted, and failed for an unrecoverable
-error.
+missing a try.sh script or the try.sh requires some input or is random, progress
+if the deobfuscation was interrupted, and failure for an unrecoverable error.
 
 ```txt
 year/author DEOBFUSCATED|UNVERIFIED|PROGRESS|FAILURE
