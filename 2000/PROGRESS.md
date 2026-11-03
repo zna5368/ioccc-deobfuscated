@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] anderson
 - [E] bellard
-- [Q] bmeyer
+- [D] bmeyer
 - [Q] briddlebane
 - [Q] dhyang
 - [Q] dlowe
