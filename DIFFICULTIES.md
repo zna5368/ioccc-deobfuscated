@@ -51,6 +51,7 @@
 - 1993/schnitzi
 - 1993/vanb
 - 1994/dodsond1
+- 1994/dodsond2
 
 ## Hard
 
