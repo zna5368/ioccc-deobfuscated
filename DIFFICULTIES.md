@@ -32,6 +32,7 @@
 - 1996/gandalf
 - 1996/schweikh3
 - 1996/westley
+- 1998/dlowe
 
 ## Medium
 
