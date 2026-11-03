@@ -12,6 +12,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] kivinen
 - [E] lush
 - [E] marangon
-- [Q] nathan
+- [D] nathan
 - [Q] vern
 - [Q] westley

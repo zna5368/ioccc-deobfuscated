@@ -43,6 +43,7 @@
 - 1991/cdupont
 - 1992/ant
 - 1992/lush
+- 1992/nathan
 
 ## Hard
 
