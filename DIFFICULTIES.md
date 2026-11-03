@@ -81,6 +81,7 @@
 - 1992/kivinen
 - 1992/marangon
 - 1992/vern
+- 1993/ant
 
 ## Insane
 
