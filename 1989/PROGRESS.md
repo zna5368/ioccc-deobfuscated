@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] ovdluhe
 - [E] paul
 - [D] robison
-- [Q] roemer
+- [E] roemer
 - [Q] tromp
 - [Q] vanb
 - [Q] westley
