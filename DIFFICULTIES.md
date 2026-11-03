@@ -41,6 +41,7 @@
 - 1991/ant
 - 1991/buzzard
 - 1991/cdupont
+- 1992/ant
 
 ## Hard
 
