@@ -131,6 +131,7 @@
 - 1998/bas2
 - 1998/dorssel
 - 1998/schnitzi
+- 1998/schweikh1
 
 ## Insane
 

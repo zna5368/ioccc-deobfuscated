@@ -12,7 +12,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] dorssel
 - [D] fanf
 - [D] schnitzi
-- [Q] schweikh1
+- [E] schweikh1
 - [Q] schweikh2
 - [Q] schweikh3
 - [Q] tomtorfs
