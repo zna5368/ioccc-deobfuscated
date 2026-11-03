@@ -18,6 +18,7 @@
 - 1985/sicherman
 - 1986/hague
 - 1986/stein
+- 1987/heckbert
 - 1987/korn
 
 ## Hard

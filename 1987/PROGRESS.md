@@ -3,7 +3,7 @@
 D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] biggar
-- [Q] heckbert
+- [D] heckbert
 - [Q] hines
 - [Q] korn
 - [Q] lievaart
