@@ -8,6 +8,7 @@
 ## Medium
 
 - 1984/decot
+- 1985/applin
 - 1987/korn
 
 ## Hard
