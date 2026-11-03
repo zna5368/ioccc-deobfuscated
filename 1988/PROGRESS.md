@@ -10,4 +10,4 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] reddy
 - [Q] robison
 - [E] spinellis
-- [Q] westley
+- [D] westley
