@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] bas1
 - [D] bas2
 - [E] chaos
-- [Q] df
+- [E] df
 - [Q] dlowe
 - [Q] dloweneil
 - [Q] dorssel
