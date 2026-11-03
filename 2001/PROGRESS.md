@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] bellard
 - [D] cheong
 - [E] coupard
-- [Q] ctk
+- [E] ctk
 - [Q] dgbeards
 - [Q] herrmann1
 - [Q] herrmann2
