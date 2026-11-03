@@ -16,7 +16,10 @@
 			"Bash(git add *)",
 			"Bash(git commit *)",
 			"Bash(./verify.sh)",
-			"Bash(./original.sh)"
+			"Bash(./original.sh)",
+			"Bash(yes | ./original.sh*)",
+			"Bash(yes | ./verify.sh*)",
+			"Bash(diff original.txt modified.txt)"
 		]
 	}
 }
