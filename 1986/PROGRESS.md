@@ -9,5 +9,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] holloway
 - [E] marshall
 - [E] pawka
-- [Q] stein
+- [E] stein
 - [E] wall

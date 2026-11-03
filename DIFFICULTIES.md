@@ -16,6 +16,7 @@
 - 1985/applin
 - 1985/sicherman
 - 1986/hague
+- 1986/stein
 - 1987/korn
 
 ## Hard
