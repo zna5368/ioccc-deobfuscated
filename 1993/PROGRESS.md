@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] cmills
 - [D] dgibson
 - [D] ejb
-- [Q] jonth
+- [E] jonth
 - [Q] leo
 - [Q] lmfjyh
 - [Q] plummer

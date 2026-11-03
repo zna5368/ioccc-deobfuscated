@@ -84,6 +84,7 @@
 - 1992/vern
 - 1993/ant
 - 1993/ejb
+- 1993/jonth
 
 ## Insane
 
