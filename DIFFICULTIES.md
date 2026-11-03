@@ -49,6 +49,7 @@
 - 1992/nathan
 - 1993/cmills
 - 1993/schnitzi
+- 1993/vanb
 
 ## Hard
 
