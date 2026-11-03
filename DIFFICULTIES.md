@@ -83,6 +83,7 @@
 - 1998/dloweneil
 - 2000/natori
 - 2000/schneiderwent
+- 2000/thadgavin
 
 ## Hard
 
