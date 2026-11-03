@@ -76,6 +76,7 @@
 - 1996/huffman
 - 1996/schweikh1
 - 1996/schweikh2
+- 1998/chaos
 
 ## Hard
 
