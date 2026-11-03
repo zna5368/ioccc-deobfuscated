@@ -12,4 +12,4 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] smr
 - [E] tvr
 - [D] weisberg
-- [Q] westley
+- [D] westley

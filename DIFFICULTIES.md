@@ -26,6 +26,7 @@
 - 1993/plummer
 - 1994/horton
 - 1994/smr
+- 1994/westley
 
 ## Medium
 
