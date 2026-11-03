@@ -7,7 +7,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] cheong
 - [E] coupard
 - [E] ctk
-- [Q] dgbeards
+- [E] dgbeards
 - [Q] herrmann1
 - [Q] herrmann2
 - [Q] jason
