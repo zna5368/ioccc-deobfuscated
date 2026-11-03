@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] ctk
 - [E] dgbeards
 - [E] herrmann1
-- [Q] herrmann2
+- [D] herrmann2
 - [Q] jason
 - [Q] kev
 - [Q] ollinger
