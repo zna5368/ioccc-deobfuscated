@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] arachnid
 - [E] burley
 - [E] gavare
-- [Q] gavin
+- [E] gavin
 - [Q] hibachi
 - [Q] hoyle
 - [Q] jdalbec
