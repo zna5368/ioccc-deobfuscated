@@ -7,7 +7,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] eldby
 - [D] gandalf
 - [D] huffman
-- [Q] jonth
+- [E] jonth
 - [D] rcm
 - [Q] schweikh1
 - [Q] schweikh2
