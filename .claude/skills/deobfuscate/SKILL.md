@@ -29,7 +29,7 @@ with a short explanation of where each technique is used and how it works.
 8. Make some changes to deobfuscate simple.c
 9. Rebuild by running `make -f ${CLAUDE_SKILL_DIR}/Makefile simple`
 10. Verify that the changes made still match the original if there is try.sh
-11. Repeat from step seven until the program is deobfuscated
+11. Repeat from step eight until the program is deobfuscated
 12. Choose a difficulty and write the obfuscation techniques in TECHNIQUES.md
 13. Return a status line indicating whether deobfuscation was successful
 
