@@ -20,8 +20,8 @@ entry in the year.
 1. Invoke the deobfuscate skill passing the year and author to spawn a subagent
 2. Wait for the agent's output as a notification
 3. Record the results returned by the subagent in PROGRESS.md
-5. Record the difficulty from TECHNIQUES.md in the top level DIFFICULTIES.md
-4. Commit changes for the entry using the message "deobfuscate year/author"
+4. Record the difficulty from TECHNIQUES.md in the top level DIFFICULTIES.md
+5. Commit changes for the entry using the message "deobfuscate year/author"
 
 Subagents should be assigned to deobfuscate entries in batches of 3-5 at a time.
 The agents will run in the background, do not start multiple agents for
