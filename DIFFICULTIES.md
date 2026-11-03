@@ -37,6 +37,7 @@
 - 1990/dg
 - 1990/westley
 - 1991/ant
+- 1991/buzzard
 
 ## Hard
 

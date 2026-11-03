@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [E] ant
 - [D] brnstnd
-- [Q] buzzard
+- [E] buzzard
 - [Q] cdupont
 - [Q] davidguy
 - [Q] dds
