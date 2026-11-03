@@ -59,6 +59,7 @@
 - 1994/schnitzi
 - 1994/shapiro
 - 1994/weisberg
+- 1995/cdua
 
 ## Hard
 
