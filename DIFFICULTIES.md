@@ -50,6 +50,7 @@
 - 1993/cmills
 - 1993/schnitzi
 - 1993/vanb
+- 1994/dodsond1
 
 ## Hard
 
