@@ -42,6 +42,7 @@
 ## Terrifying
 
 - 1984/mullender
+- 1988/isaak
 
 ## Catastrophic
 
