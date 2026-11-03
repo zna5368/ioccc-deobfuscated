@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] ldb
 - [D] schnitzi
 - [E] shapiro
-- [Q] smr
+- [D] smr
 - [Q] tvr
 - [Q] weisberg
 - [Q] westley

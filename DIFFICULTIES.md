@@ -25,6 +25,7 @@
 - 1993/lmfjyh
 - 1993/plummer
 - 1994/horton
+- 1994/smr
 
 ## Medium
 
