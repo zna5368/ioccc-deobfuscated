@@ -1,0 +1,14 @@
+#
+# sort with: ../../bin/sgi.sh
+*~
+*.dSYM
+*.o
+.DS_Store
+.*.swp
+dups
+fmt
+fmt.c
+gen
+reveal
+run
+usdw

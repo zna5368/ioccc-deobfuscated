@@ -1,0 +1,19 @@
+#
+# sort with: ../../bin/sgi.sh
+*~
+*.dSYM
+*.o
+.DS_Store
+.*.swp
+LLAMA2_LICENSE
+eeyore
+eeyore_openmp
+linux
+linux_openmp
+model
+openmp
+prog_openmp
+rainman
+rainman_openmp
+snoop
+snoop_openmp
