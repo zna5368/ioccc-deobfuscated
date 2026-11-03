@@ -71,6 +71,7 @@
 - 1995/schnitzi
 - 1995/spinellis
 - 1996/eldby
+- 1996/huffman
 
 ## Hard
 
