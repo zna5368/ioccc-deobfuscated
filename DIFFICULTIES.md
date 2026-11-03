@@ -125,6 +125,7 @@
 - 1996/jonth
 - 1996/rcm
 - 1998/bas1
+- 1998/bas2
 
 ## Insane
 
