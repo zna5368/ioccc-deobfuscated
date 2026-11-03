@@ -79,6 +79,7 @@
 - 1992/imc
 - 1992/kivinen
 - 1992/marangon
+- 1992/vern
 
 ## Insane
 
