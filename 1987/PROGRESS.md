@@ -7,5 +7,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] hines
 - [E] korn
 - [E] lievaart
-- [Q] wall
+- [D] wall
 - [E] westley

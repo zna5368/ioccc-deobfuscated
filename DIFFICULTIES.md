@@ -31,6 +31,7 @@
 - 1986/holloway
 - 1986/wall
 - 1987/lievaart
+- 1987/wall
 
 ## Insane
 
