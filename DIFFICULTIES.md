@@ -68,6 +68,7 @@
 - 1995/makarios
 - 1995/savastio
 - 1995/schnitzi
+- 1995/spinellis
 
 ## Hard
 
