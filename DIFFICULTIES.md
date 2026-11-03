@@ -13,6 +13,7 @@
 - 1987/hines
 - 1987/korn
 - 1987/westley
+- 1988/spinellis
 
 ## Medium
 
