@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] albert
 - [D] ant
 - [D] buzzard.1
-- [Q] buzzard.2
+- [D] buzzard.2
 - [Q] gson
 - [Q] imc
 - [Q] kivinen
