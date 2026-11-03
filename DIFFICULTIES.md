@@ -26,6 +26,7 @@
 - 1987/heckbert
 - 1988/dale
 - 1988/reddy
+- 1989/fubar
 
 ## Hard
 
