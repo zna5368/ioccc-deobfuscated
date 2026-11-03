@@ -69,6 +69,7 @@
 - 1991/brnstnd
 - 1991/dds
 - 1991/westley
+- 1992/adrian
 
 ## Insane
 
