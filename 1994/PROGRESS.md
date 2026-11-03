@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [E] dodsond1
 - [E] dodsond2
-- [Q] horton
+- [D] horton
 - [Q] imc
 - [Q] ldb
 - [Q] schnitzi
