@@ -59,6 +59,7 @@
 - 1990/jaw
 - 1990/scjones
 - 1990/tbr
+- 1990/theorem
 
 ## Insane
 

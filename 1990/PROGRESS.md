@@ -11,5 +11,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] scjones
 - [E] stig
 - [E] tbr
-- [Q] theorem
+- [D] theorem
 - [Q] westley
