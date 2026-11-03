@@ -11,6 +11,7 @@
 - 1986/pawka
 - 1987/biggar
 - 1987/hines
+- 1987/korn
 
 ## Medium
 
