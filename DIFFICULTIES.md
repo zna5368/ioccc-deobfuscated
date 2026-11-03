@@ -47,6 +47,7 @@
 - 1989/jar.2
 - 1989/paul
 - 1989/robison
+- 1989/tromp
 
 ## Insane
 
