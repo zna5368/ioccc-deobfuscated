@@ -90,6 +90,7 @@
 - 1993/ejb
 - 1993/jonth
 - 1993/leo
+- 1993/rince
 
 ## Insane
 

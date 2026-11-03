@@ -10,6 +10,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] leo
 - [E] lmfjyh
 - [D] plummer
-- [Q] rince
+- [E] rince
 - [E] schnitzi
 - [D] vanb
