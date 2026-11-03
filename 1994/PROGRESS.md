@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] imc
 - [E] ldb
 - [D] schnitzi
-- [Q] shapiro
+- [E] shapiro
 - [Q] smr
 - [Q] tvr
 - [Q] weisberg

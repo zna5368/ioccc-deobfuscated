@@ -55,6 +55,7 @@
 - 1994/dodsond2
 - 1994/ldb
 - 1994/schnitzi
+- 1994/shapiro
 
 ## Hard
 
