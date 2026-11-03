@@ -72,6 +72,7 @@
 - 1995/spinellis
 - 1996/eldby
 - 1996/huffman
+- 1996/schweikh1
 
 ## Hard
 

@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] huffman
 - [E] jonth
 - [D] rcm
-- [Q] schweikh1
+- [D] schweikh1
 - [Q] schweikh2
 - [Q] schweikh3
 - [Q] westley
