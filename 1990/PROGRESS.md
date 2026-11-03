@@ -1,0 +1,15 @@
+# 1990
+
+D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
+
+- [D] baruch
+- [Q] cmills
+- [Q] dds
+- [Q] dg
+- [Q] jaw
+- [Q] pjr
+- [Q] scjones
+- [Q] stig
+- [Q] tbr
+- [Q] theorem
+- [Q] westley

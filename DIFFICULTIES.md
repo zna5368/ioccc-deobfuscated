@@ -50,6 +50,7 @@
 - 1989/robison
 - 1989/tromp
 - 1989/westley
+- 1990/baruch
 
 ## Insane
 
