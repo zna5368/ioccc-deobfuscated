@@ -10,7 +10,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] dlowe
 - [E] dloweneil
 - [D] dorssel
-- [Q] fanf
+- [D] fanf
 - [Q] schnitzi
 - [Q] schweikh1
 - [Q] schweikh2

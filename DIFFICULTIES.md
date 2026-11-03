@@ -143,6 +143,7 @@
 - 1988/isaak
 - 1996/august
 - 1998/df
+- 1998/fanf
 
 ## Catastrophic
 
