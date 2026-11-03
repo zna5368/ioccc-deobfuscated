@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] jaw
 - [E] pjr
 - [D] scjones
-- [Q] stig
+- [E] stig
 - [Q] tbr
 - [Q] theorem
 - [Q] westley

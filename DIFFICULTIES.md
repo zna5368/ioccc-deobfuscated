@@ -18,6 +18,7 @@
 - 1989/jar.1
 - 1989/vanb
 - 1990/pjr
+- 1990/stig
 
 ## Medium
 
