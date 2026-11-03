@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] dhyang
 - [D] dlowe
 - [E] jarijyrki
-- [Q] natori
+- [E] natori
 - [D] primenum
 - [Q] rince
 - [Q] robison

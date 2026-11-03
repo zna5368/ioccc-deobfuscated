@@ -81,6 +81,7 @@
 - 1996/schweikh2
 - 1998/chaos
 - 1998/dloweneil
+- 2000/natori
 
 ## Hard
 
