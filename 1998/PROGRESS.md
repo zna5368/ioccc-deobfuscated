@@ -13,6 +13,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] fanf
 - [D] schnitzi
 - [E] schweikh1
-- [Q] schweikh2
+- [E] schweikh2
 - [Q] schweikh3
 - [Q] tomtorfs
