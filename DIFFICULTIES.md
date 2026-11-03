@@ -57,6 +57,7 @@
 - 1994/ldb
 - 1994/schnitzi
 - 1994/shapiro
+- 1994/weisberg
 
 ## Hard
 

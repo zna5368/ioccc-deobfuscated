@@ -11,5 +11,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] shapiro
 - [D] smr
 - [E] tvr
-- [Q] weisberg
+- [D] weisberg
 - [Q] westley
