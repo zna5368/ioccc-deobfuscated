@@ -137,6 +137,7 @@
 - 1998/schweikh3
 - 2000/anderson
 - 2000/bellard
+- 2000/briddlebane
 
 ## Insane
 
