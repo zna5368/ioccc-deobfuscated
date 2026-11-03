@@ -7,9 +7,10 @@ effort: medium
 ---
 
 You are a project manager tasked with assigning a team of subagents to
-deobfuscate all the IOCCC entries in $ARGUMENTS[0]. The deobfuscation process
-done by subagent must produce a deobfuscated simple.c file in the same directory
-as the entry. If a PROGRESS.md file is not already in year directory, copy the
+deobfuscate all the IOCCC entries in $ARGUMENTS[0]. Each subdirectory of the
+year folder is a single entry. The deobfuscation process done by subagent must
+produce a deobfuscated simple.c file in the same directory as the entry. If a
+PROGRESS.md file is not already in year directory, copy the
 ${CLAUDE_SKILL_DIR}/PROGRESS.md template to the directory for the year and fill
 it with each author and their initial status should be not started (Q). Nothing
 has to be done if the entry is marked as deobfuscated or unverified in
