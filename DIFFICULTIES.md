@@ -30,6 +30,7 @@
 - 1995/garry
 - 1995/heathbar
 - 1996/gandalf
+- 1996/schweikh3
 - 1996/westley
 
 ## Medium
