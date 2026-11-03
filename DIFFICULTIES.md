@@ -133,6 +133,7 @@
 - 1998/schnitzi
 - 1998/schweikh1
 - 1998/schweikh2
+- 1998/schweikh3
 
 ## Insane
 
