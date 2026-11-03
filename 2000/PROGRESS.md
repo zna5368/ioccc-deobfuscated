@@ -13,6 +13,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] primenum
 - [E] rince
 - [Q] robison
-- [Q] schneiderwent
+- [D] schneiderwent
 - [Q] thadgavin
 - [Q] tomx

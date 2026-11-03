@@ -82,6 +82,7 @@
 - 1998/chaos
 - 1998/dloweneil
 - 2000/natori
+- 2000/schneiderwent
 
 ## Hard
 
