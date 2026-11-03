@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] dale
 - [Q] isaak
 - [E] litmaath
-- [Q] phillipps
+- [E] phillipps
 - [Q] reddy
 - [Q] robison
 - [Q] spinellis
