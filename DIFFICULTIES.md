@@ -38,6 +38,7 @@
 - 1990/westley
 - 1991/ant
 - 1991/buzzard
+- 1991/cdupont
 
 ## Hard
 
