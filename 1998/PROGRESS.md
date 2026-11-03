@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] chaos
 - [E] df
 - [D] dlowe
-- [Q] dloweneil
+- [E] dloweneil
 - [Q] dorssel
 - [Q] fanf
 - [Q] schnitzi

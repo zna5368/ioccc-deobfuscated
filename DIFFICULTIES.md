@@ -78,6 +78,7 @@
 - 1996/schweikh1
 - 1996/schweikh2
 - 1998/chaos
+- 1998/dloweneil
 
 ## Hard
 
