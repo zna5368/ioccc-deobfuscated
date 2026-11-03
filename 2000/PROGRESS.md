@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] bellard
 - [D] bmeyer
 - [E] briddlebane
-- [Q] dhyang
+- [D] dhyang
 - [Q] dlowe
 - [Q] jarijyrki
 - [Q] natori
