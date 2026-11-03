@@ -10,7 +10,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] gson
 - [D] imc
 - [E] kivinen
-- [Q] lush
+- [E] lush
 - [Q] marangon
 - [Q] nathan
 - [Q] vern
