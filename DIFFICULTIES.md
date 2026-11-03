@@ -2,8 +2,9 @@
 
 ## Easy
 
-- 1984/laman
 - 1984/anonymous
+- 1984/laman
+
 ## Medium
 
 - 1984/decot
@@ -16,6 +17,7 @@
 ## Terrifying
 
 - 1984/mullender
+
 ## Catastrophic
 
 ## Horrific
