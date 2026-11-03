@@ -9,6 +9,7 @@
 - 1986/bright
 - 1986/marshall
 - 1986/pawka
+- 1987/biggar
 
 ## Medium
 
