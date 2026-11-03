@@ -14,6 +14,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] kev
 - [D] ollinger
 - [E] rosten
-- [Q] schweikh
+- [D] schweikh
 - [Q] westley
 - [Q] williams

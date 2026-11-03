@@ -88,6 +88,7 @@
 - 2001/ctk
 - 2001/kev
 - 2001/rosten
+- 2001/schweikh
 
 ## Hard
 
