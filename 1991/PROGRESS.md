@@ -9,5 +9,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] davidguy
 - [E] dds
 - [D] fine
-- [Q] rince
+- [E] rince
 - [Q] westley
