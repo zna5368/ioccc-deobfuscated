@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] ant
 - [E] cmills
-- [Q] dgibson
+- [D] dgibson
 - [D] ejb
 - [Q] jonth
 - [Q] leo
