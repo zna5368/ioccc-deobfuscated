@@ -148,6 +148,7 @@
 - 2000/jarijyrki
 - 2000/robison
 - 2001/bellard
+- 2001/cheong
 
 ## Insane
 

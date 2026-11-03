@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [E] anonymous
 - [E] bellard
-- [Q] cheong
+- [D] cheong
 - [Q] coupard
 - [Q] ctk
 - [Q] dgbeards
