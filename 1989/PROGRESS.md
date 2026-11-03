@@ -10,5 +10,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] robison
 - [E] roemer
 - [E] tromp
-- [Q] vanb
+- [D] vanb
 - [Q] westley
