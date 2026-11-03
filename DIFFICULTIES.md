@@ -77,6 +77,7 @@
 - 1992/gson
 - 1992/imc
 - 1992/kivinen
+- 1992/marangon
 
 ## Insane
 
