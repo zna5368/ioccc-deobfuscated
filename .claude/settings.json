@@ -1,0 +1,22 @@
+{
+	"permissions":
+	{
+		"allow": [
+			"Write(*/*/TECHNIQUES.md)",
+			"Edit(*/PROGRESS.md)",
+			"Edit(DIFFICULTIES.md)",
+			"Edit(*/*/simple.c)",
+			"Edit(*/*/Makefile)",
+			"Bash(make -f /workspaces/ioccc-src/.claude/skills/deobfuscate/Makefile simple)",
+			"Bash(make -f /workspaces/ioccc-src/.claude/skills/deobfuscate/Makefile basic)",
+			"Bash(make -f /workspaces/ioccc-src/.claude/skills/deobfuscate/Makefile compare)",
+			"Bash(yes)",
+			"Bash(cp /workspaces/ioccc-src/.claude/skills/coordinate/PROGRESS.md *)",
+			"Bash(cp /workspaces/ioccc-src/.claude/skills/deobfuscate/REPORT.md *)",
+			"Bash(git add *)",
+			"Bash(git commit *)",
+			"Bash(./verify.sh)",
+			"Bash(./original.sh)"
+		]
+	}
+}
