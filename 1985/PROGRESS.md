@@ -5,5 +5,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] applin
 - [D] august
 - [E] lycklama
-- [Q] shapiro
+- [E] shapiro
 - [Q] sicherman
