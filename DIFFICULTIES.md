@@ -68,6 +68,8 @@
 
 ## Insane
 
+- 1991/davidguy
+
 ## Terrifying
 
 - 1984/mullender

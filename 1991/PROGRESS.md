@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] brnstnd
 - [E] buzzard
 - [E] cdupont
-- [Q] davidguy
+- [E] davidguy
 - [Q] dds
 - [Q] fine
 - [Q] rince
