@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [E] cdua
 - [D] dodsond1
-- [Q] dodsond2
+- [E] dodsond2
 - [Q] esde
 - [Q] garry
 - [Q] heathbar

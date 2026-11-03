@@ -61,6 +61,7 @@
 - 1994/weisberg
 - 1995/cdua
 - 1995/dodsond1
+- 1995/dodsond2
 
 ## Hard
 
