@@ -29,6 +29,7 @@
 - 1994/westley
 - 1995/garry
 - 1995/heathbar
+- 1996/gandalf
 
 ## Medium
 
