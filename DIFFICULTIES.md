@@ -10,6 +10,7 @@
 - 1986/marshall
 - 1986/pawka
 - 1987/biggar
+- 1987/hines
 
 ## Medium
 
