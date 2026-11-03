@@ -7,7 +7,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] dds
 - [D] dg
 - [E] jaw
-- [Q] pjr
+- [E] pjr
 - [Q] scjones
 - [Q] stig
 - [Q] tbr
