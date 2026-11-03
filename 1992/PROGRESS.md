@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] buzzard.2
 - [D] gson
 - [D] imc
-- [Q] kivinen
+- [E] kivinen
 - [Q] lush
 - [Q] marangon
 - [Q] nathan

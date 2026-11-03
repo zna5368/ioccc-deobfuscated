@@ -75,6 +75,7 @@
 - 1992/buzzard.2
 - 1992/gson
 - 1992/imc
+- 1992/kivinen
 
 ## Insane
 
