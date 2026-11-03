@@ -21,17 +21,18 @@ with a short explanation of where each technique is used and how it works.
 
 1. Change into the directory of the entry $ARGUMENTS[0]
 2. Gather clues from the README.md on any obfuscation techniques used
-3. Run `make -f ${CLAUDE_SKILL_DIR}/Makefile basic` to make simple.c
-4. Check that simple.c can be built by running `make -f ${CLAUDE_SKILL_DIR}/Makefile simple`
-5. Run `make -f ${CLAUDE_SKILL_DIR}/Makefile compare` to make original.sh and verify.sh
-6. Copy the ${CLAUDE_SKILL_DIR}/TECHNIQUES.md report template
-7. Make some changes to deobfuscate simple.c
-8. Rebuild by running `make -f ${CLAUDE_SKILL_DIR}/Makefile simple`
-9. Verify that the changes made still match the original
-10. Repeat from step seven until the program is deobfuscated
-11. Change PROG in the Makefile from to build the simple program
-12. Choose a difficulty and write the obfuscation techniques in TECHNIQUES.md
-13. Return a status line indicating whether deobfuscation was successful
+3. Build the original program by running `make`
+4. Run `make -f ${CLAUDE_SKILL_DIR}/Makefile basic` to make simple.c
+5. Check that simple.c can be built by running `make -f ${CLAUDE_SKILL_DIR}/Makefile simple`
+6. If try.sh exists, then run `make -f ${CLAUDE_SKILL_DIR}/Makefile compare` to make original.sh and verify.sh
+7. Copy the ${CLAUDE_SKILL_DIR}/TECHNIQUES.md report template
+8. Make some changes to deobfuscate simple.c
+9. Rebuild by running `make -f ${CLAUDE_SKILL_DIR}/Makefile simple`
+10. Verify that the changes made still match the original if there is try.sh
+11. Repeat from step seven until the program is deobfuscated
+12. Change PROG in the Makefile from to build the simple program
+13. Choose a difficulty and write the obfuscation techniques in TECHNIQUES.md
+14. Return a status line indicating whether deobfuscation was successful
 
 Ignore warnings from `make -f ${CLAUDE_SKILL_DIR}/Makefile basic` about include
 errors. The include directives are prevented from being found so that the
