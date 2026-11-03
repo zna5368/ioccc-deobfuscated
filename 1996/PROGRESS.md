@@ -3,7 +3,7 @@
 D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] august
-- [Q] dalbec
+- [D] dalbec
 - [Q] eldby
 - [Q] gandalf
 - [Q] huffman
