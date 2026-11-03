@@ -70,6 +70,7 @@
 - 1991/dds
 - 1991/westley
 - 1992/adrian
+- 1992/buzzard.1
 
 ## Insane
 
