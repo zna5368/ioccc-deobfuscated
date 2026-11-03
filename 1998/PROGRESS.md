@@ -11,7 +11,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] dloweneil
 - [D] dorssel
 - [D] fanf
-- [Q] schnitzi
+- [D] schnitzi
 - [Q] schweikh1
 - [Q] schweikh2
 - [Q] schweikh3
