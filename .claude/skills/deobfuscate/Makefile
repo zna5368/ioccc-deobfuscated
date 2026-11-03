@@ -12,7 +12,7 @@ basic:
 # Copy the include directives from the original obfuscated file into the
 # simplified source code
 
-	-grep '#include\s*<.*>' ${PROG}.c > simple.c
+	-grep '#\s*include\s*<.*>' ${PROG}.c > simple.c
 
 # Prevent the preprocessor from including anything so that it does not make the
 # source file really messy
