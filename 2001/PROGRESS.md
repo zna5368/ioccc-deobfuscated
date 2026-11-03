@@ -11,7 +11,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] herrmann1
 - [D] herrmann2
 - [E] jason
-- [Q] kev
+- [E] kev
 - [Q] ollinger
 - [Q] rosten
 - [Q] schweikh
