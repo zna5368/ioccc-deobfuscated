@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] august
 - [D] bright
 - [D] hague
-- [Q] holloway
+- [E] holloway
 - [Q] marshall
 - [Q] pawka
 - [Q] stein
