@@ -24,6 +24,7 @@
 - 1985/shapiro
 - 1986/august
 - 1986/holloway
+- 1986/wall
 
 ## Insane
 

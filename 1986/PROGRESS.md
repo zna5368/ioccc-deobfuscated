@@ -10,4 +10,4 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] marshall
 - [E] pawka
 - [Q] stein
-- [Q] wall
+- [E] wall
