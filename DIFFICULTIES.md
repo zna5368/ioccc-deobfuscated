@@ -99,6 +99,7 @@
 - 1993/leo
 - 1993/rince
 - 1994/imc
+- 1994/tvr
 
 ## Insane
 
