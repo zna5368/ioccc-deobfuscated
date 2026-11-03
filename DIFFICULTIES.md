@@ -67,6 +67,7 @@
 - 1995/esde
 - 1995/makarios
 - 1995/savastio
+- 1995/schnitzi
 
 ## Hard
 

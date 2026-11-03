@@ -11,6 +11,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] leo
 - [E] makarios
 - [D] savastio
-- [Q] schnitzi
+- [D] schnitzi
 - [Q] spinellis
 - [Q] vanschnitz
