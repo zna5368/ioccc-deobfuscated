@@ -6,6 +6,7 @@
 - 1984/laman
 - 1985/lycklama
 - 1986/applin
+- 1986/bright
 
 ## Medium
 

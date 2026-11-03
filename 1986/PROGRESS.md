@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [E] applin
 - [E] august
-- [Q] bright
+- [D] bright
 - [Q] hague
 - [Q] holloway
 - [Q] marshall
