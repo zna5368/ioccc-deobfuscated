@@ -10,7 +10,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] dgbeards
 - [E] herrmann1
 - [D] herrmann2
-- [Q] jason
+- [E] jason
 - [Q] kev
 - [Q] ollinger
 - [Q] rosten
