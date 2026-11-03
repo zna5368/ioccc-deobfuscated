@@ -10,6 +10,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] pjr
 - [D] scjones
 - [E] stig
-- [Q] tbr
+- [E] tbr
 - [Q] theorem
 - [Q] westley

@@ -58,6 +58,7 @@
 - 1990/dds
 - 1990/jaw
 - 1990/scjones
+- 1990/tbr
 
 ## Insane
 
