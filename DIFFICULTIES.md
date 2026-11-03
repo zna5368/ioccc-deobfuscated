@@ -113,6 +113,7 @@
 - 1994/imc
 - 1994/tvr
 - 1995/leo
+- 1995/vanschnitz
 
 ## Insane
 

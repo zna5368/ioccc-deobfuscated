@@ -13,4 +13,4 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] savastio
 - [D] schnitzi
 - [E] spinellis
-- [Q] vanschnitz
+- [D] vanschnitz
