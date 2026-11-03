@@ -69,6 +69,7 @@
 - 1995/savastio
 - 1995/schnitzi
 - 1995/spinellis
+- 1996/eldby
 
 ## Hard
 
