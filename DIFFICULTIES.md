@@ -23,6 +23,7 @@
 - 1991/rince
 - 1992/westley
 - 1993/lmfjyh
+- 1993/plummer
 
 ## Medium
 
