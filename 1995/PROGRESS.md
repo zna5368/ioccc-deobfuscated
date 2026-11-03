@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] esde
 - [D] garry
 - [D] heathbar
-- [Q] leo
+- [D] leo
 - [E] makarios
 - [D] savastio
 - [Q] schnitzi

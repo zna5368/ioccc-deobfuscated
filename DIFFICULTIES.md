@@ -110,6 +110,7 @@
 - 1993/rince
 - 1994/imc
 - 1994/tvr
+- 1995/leo
 
 ## Insane
 
