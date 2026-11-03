@@ -6,6 +6,8 @@
 
 include Makefile
 
+.PHONY: basic compare
+
 # create the simple.c program
 basic:
 
