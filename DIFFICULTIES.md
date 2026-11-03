@@ -10,6 +10,7 @@
 
 - 1984/decot
 - 1985/applin
+- 1985/sicherman
 - 1987/korn
 
 ## Hard
