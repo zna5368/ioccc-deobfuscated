@@ -17,10 +17,10 @@ PROGRESS.md. The only writing in PROGRESS.md must be changing the year and
 updating the status codes for each entry. The following should be done for each
 entry in the year.
 
-1. Invoke the deobfuscate skill passing the year and author to spawn a subagent
+1. Invoke the deobfuscate skill passing year/author to spawn a subagent
 2. Wait for the agent's output as a notification
 3. Record the results returned by the subagent in PROGRESS.md
-4. Record the difficulty from TECHNIQUES.md in the top level DIFFICULTIES.md
+4. Record the difficulty from year/author/TECHNIQUES.md in the top level DIFFICULTIES.md
 5. Commit changes for the entry using the message "deobfuscate year/author"
 
 Subagents should be assigned to deobfuscate entries in batches of 3-5 at a time.
@@ -38,7 +38,7 @@ The entry 1987/korn is already in DIFFICULTIES.md as an example.
 Only commit the entry if the subagent returns as deobfuscated or unverified.
 
 ```bash
-git add year/author
+git add year/author year/PROGRESS.md DIFFICULTIES.md
 git commit -m "deobfuscate year/author"
 ```
 
@@ -57,6 +57,3 @@ The status codes in the PROGRESS.md file should be written like this example.
 ```
 - [D] ferguson
 ```
-
-If a subagent fails to deobfuscate an entry, then record the reason in the
-PROGRESS.md file.
