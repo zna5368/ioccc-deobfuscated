@@ -12,7 +12,7 @@
 			"Bash(make -f /workspaces/ioccc-deobfuscated/.claude/skills/deobfuscate/Makefile compare)",
 			"Bash(yes)",
 			"Bash(cp /workspaces/ioccc-src/.claude/skills/coordinate/PROGRESS.md *)",
-			"Bash(cp /workspaces/ioccc-src/.claude/skills/deobfuscate/REPORT.md *)",
+			"Bash(cp /workspaces/ioccc-src/.claude/skills/deobfuscate/TECHNIQUES.md *)",
 			"Bash(git add *)",
 			"Bash(git commit *)",
 			"Bash(./verify.sh)",
