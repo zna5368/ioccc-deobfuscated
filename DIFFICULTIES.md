@@ -2,6 +2,7 @@
 
 ## Easy
 
+- 1984/laman
 - 1984/anonymous
 ## Medium
 
