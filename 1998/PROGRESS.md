@@ -3,7 +3,7 @@
 D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [E] banks
-- [Q] bas1
+- [E] bas1
 - [Q] bas2
 - [Q] chaos
 - [Q] df

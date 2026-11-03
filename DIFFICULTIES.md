@@ -124,6 +124,7 @@
 - 1996/dalbec
 - 1996/jonth
 - 1996/rcm
+- 1998/bas1
 
 ## Insane
 
