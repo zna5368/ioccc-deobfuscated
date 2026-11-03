@@ -30,9 +30,8 @@ with a short explanation of where each technique is used and how it works.
 9. Rebuild by running `make -f ${CLAUDE_SKILL_DIR}/Makefile simple`
 10. Verify that the changes made still match the original if there is try.sh
 11. Repeat from step seven until the program is deobfuscated
-12. Change PROG in the Makefile from to build the simple program
-13. Choose a difficulty and write the obfuscation techniques in TECHNIQUES.md
-14. Return a status line indicating whether deobfuscation was successful
+12. Choose a difficulty and write the obfuscation techniques in TECHNIQUES.md
+13. Return a status line indicating whether deobfuscation was successful
 
 Ignore warnings from `make -f ${CLAUDE_SKILL_DIR}/Makefile basic` about include
 errors. The include directives are prevented from being found so that the
