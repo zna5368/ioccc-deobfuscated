@@ -12,4 +12,4 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] stig
 - [E] tbr
 - [D] theorem
-- [Q] westley
+- [D] westley
