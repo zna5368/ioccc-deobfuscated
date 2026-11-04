@@ -106,6 +106,7 @@
 - 2006/stewart
 - 2006/toledo1
 - 2011/borsanyi
+- 2011/dlowe
 
 ## Hard
 
