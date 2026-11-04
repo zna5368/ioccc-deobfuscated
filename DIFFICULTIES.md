@@ -103,6 +103,7 @@
 - 2005/vince
 - 2006/meyer
 - 2006/sloane
+- 2006/stewart
 
 ## Hard
 

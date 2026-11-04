@@ -10,7 +10,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] monge
 - [Q] night
 - [E] sloane
-- [Q] stewart
+- [D] stewart
 - [Q] sykes1
 - [Q] sykes2
 - [Q] toledo1
