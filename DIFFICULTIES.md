@@ -102,6 +102,7 @@
 - 2005/mynx
 - 2005/vince
 - 2006/meyer
+- 2006/sloane
 
 ## Hard
 

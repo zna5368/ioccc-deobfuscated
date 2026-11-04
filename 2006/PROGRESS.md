@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] meyer
 - [E] monge
 - [Q] night
-- [Q] sloane
+- [E] sloane
 - [Q] stewart
 - [Q] sykes1
 - [Q] sykes2
