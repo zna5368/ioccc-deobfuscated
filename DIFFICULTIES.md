@@ -94,6 +94,7 @@
 - 2004/hibachi
 - 2004/hoyle
 - 2004/schnitzi
+- 2004/sds
 
 ## Hard
 
