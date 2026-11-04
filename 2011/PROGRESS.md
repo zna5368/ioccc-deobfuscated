@@ -11,7 +11,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] goren
 - [D] hamaji
 - [Q] hou
-- [Q] konno
+- [D] konno
 - [Q] richards
 - [Q] toledo
 - [Q] vik

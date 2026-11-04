@@ -108,6 +108,7 @@
 - 2011/borsanyi
 - 2011/dlowe
 - 2011/eastman
+- 2011/konno
 
 ## Hard
 
