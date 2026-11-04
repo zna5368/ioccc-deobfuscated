@@ -12,7 +12,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] jdalbec
 - [Q] kopczynski
 - [D] newbern
-- [Q] omoikane
+- [D] omoikane
 - [Q] schnitzi
 - [Q] sds
 - [Q] vik1
