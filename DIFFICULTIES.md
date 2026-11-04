@@ -197,6 +197,7 @@
 - 2011/blakely
 - 2011/fredriksson
 - 2011/goren
+- 2011/vik
 
 ## Insane
 
