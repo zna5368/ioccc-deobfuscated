@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] chia
 - [D] giljade
 - [Q] jetro
-- [Q] klausler
+- [D] klausler
 - [Q] mikeash
 - [Q] mynx
 - [Q] persano
