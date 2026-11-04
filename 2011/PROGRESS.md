@@ -12,7 +12,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] hamaji
 - [D] hou
 - [D] konno
-- [Q] richards
+- [D] richards
 - [Q] toledo
 - [Q] vik
 - [Q] zucker

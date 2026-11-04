@@ -228,6 +228,7 @@
 - 2011/akari
 - 2011/hamaji
 - 2011/hou
+- 2011/richards
 
 ## Catastrophic
 
