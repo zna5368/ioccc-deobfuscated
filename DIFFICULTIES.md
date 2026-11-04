@@ -93,6 +93,7 @@
 - 2004/arachnid
 - 2004/hibachi
 - 2004/hoyle
+- 2004/schnitzi
 
 ## Hard
 
