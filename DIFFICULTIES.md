@@ -213,6 +213,7 @@
 - 2006/monge
 - 2011/toledo
 - 2011/zucker
+- 2012/deckmyn
 
 ## Terrifying
 
