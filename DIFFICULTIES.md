@@ -200,6 +200,7 @@
 - 2011/vik
 - 2012/blakely
 - 2012/dlowe
+- 2012/endoh1
 - 2012/endoh2
 
 ## Insane
