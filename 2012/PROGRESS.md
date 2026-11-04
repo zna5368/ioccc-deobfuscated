@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] blakely
 - [D] deckmyn
-- [Q] dlowe
+- [E] dlowe
 - [Q] endoh1
 - [Q] endoh2
 - [Q] grothe

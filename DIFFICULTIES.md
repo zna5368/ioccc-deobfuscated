@@ -199,6 +199,7 @@
 - 2011/goren
 - 2011/vik
 - 2012/blakely
+- 2012/dlowe
 
 ## Insane
 
