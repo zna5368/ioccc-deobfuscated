@@ -7,7 +7,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] boutines
 - [E] chia
 - [D] giljade
-- [Q] jetro
+- [E] jetro
 - [D] klausler
 - [Q] mikeash
 - [Q] mynx

@@ -95,6 +95,7 @@
 - 2004/hoyle
 - 2004/schnitzi
 - 2004/sds
+- 2005/jetro
 - 2005/klausler
 
 ## Hard
