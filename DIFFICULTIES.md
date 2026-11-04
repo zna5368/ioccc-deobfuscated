@@ -204,6 +204,7 @@
 - 2012/endoh1
 - 2012/endoh2
 - 2012/hamano
+- 2012/kang
 
 ## Insane
 
