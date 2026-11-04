@@ -218,6 +218,7 @@
 - 2006/night
 - 2006/toledo2
 - 2006/toledo3
+- 2011/akari
 
 ## Catastrophic
 
