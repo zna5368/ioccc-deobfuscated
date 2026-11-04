@@ -15,5 +15,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] omoikane
 - [E] schnitzi
 - [D] sds
-- [Q] vik1
+- [E] vik1
 - [E] vik2
