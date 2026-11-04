@@ -217,6 +217,7 @@
 - 2005/timwi
 - 2006/night
 - 2006/toledo2
+- 2006/toledo3
 
 ## Catastrophic
 
