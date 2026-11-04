@@ -16,4 +16,4 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [Q] timwi
 - [E] toledo
 - [E] vik
-- [Q] vince
+- [E] vince
