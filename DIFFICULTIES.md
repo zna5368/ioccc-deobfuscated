@@ -194,6 +194,7 @@
 - 2006/sykes1
 - 2006/sykes2
 - 2011/blakely
+- 2011/fredriksson
 
 ## Insane
 

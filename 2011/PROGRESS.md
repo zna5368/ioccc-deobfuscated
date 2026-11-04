@@ -7,7 +7,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] borsanyi
 - [D] dlowe
 - [E] eastman
-- [Q] fredriksson
+- [D] fredriksson
 - [Q] goren
 - [Q] hamaji
 - [Q] hou
