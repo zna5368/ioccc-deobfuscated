@@ -15,4 +15,4 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] richards
 - [E] toledo
 - [D] vik
-- [Q] zucker
+- [D] zucker
