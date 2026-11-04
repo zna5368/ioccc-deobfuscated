@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] gavin
 - [E] hibachi
 - [D] hoyle
-- [Q] jdalbec
+- [D] jdalbec
 - [Q] kopczynski
 - [Q] newbern
 - [Q] omoikane
