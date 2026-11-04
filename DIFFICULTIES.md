@@ -203,6 +203,7 @@
 - 2012/dlowe
 - 2012/endoh1
 - 2012/endoh2
+- 2012/hamano
 
 ## Insane
 

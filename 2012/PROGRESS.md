@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] endoh1
 - [D] endoh2
 - [D] grothe
-- [Q] hamano
+- [D] hamano
 - [Q] hou
 - [Q] kang
 - [Q] konno
