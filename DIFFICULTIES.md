@@ -196,6 +196,7 @@
 - 2004/kopczynski
 - 2005/giljade
 - 2005/sykes
+- 2006/monge
 
 ## Terrifying
 
