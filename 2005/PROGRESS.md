@@ -5,7 +5,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] aidan
 - [E] anon
 - [D] boutines
-- [Q] chia
+- [E] chia
 - [Q] giljade
 - [Q] jetro
 - [Q] klausler
