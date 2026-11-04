@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] borsanyi
 - [E] grothe
 - [Q] hamre
-- [Q] meyer
+- [E] meyer
 - [Q] monge
 - [Q] night
 - [Q] sloane

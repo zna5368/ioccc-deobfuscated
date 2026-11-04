@@ -101,6 +101,7 @@
 - 2005/mikeash
 - 2005/mynx
 - 2005/vince
+- 2006/meyer
 
 ## Hard
 
