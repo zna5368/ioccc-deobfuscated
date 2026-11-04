@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] birken
 - [E] borsanyi
-- [Q] grothe
+- [E] grothe
 - [Q] hamre
 - [Q] meyer
 - [Q] monge

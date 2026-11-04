@@ -36,6 +36,7 @@
 - 1998/tomtorfs
 - 2000/primenum
 - 2000/tomx
+- 2006/grothe
 
 ## Medium
 
