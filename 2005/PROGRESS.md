@@ -14,6 +14,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [Q] persano
 - [E] sykes
 - [Q] timwi
-- [Q] toledo
+- [E] toledo
 - [Q] vik
 - [Q] vince
