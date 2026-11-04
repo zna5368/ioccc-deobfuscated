@@ -13,7 +13,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] mynx
 - [D] persano
 - [E] sykes
-- [Q] timwi
+- [D] timwi
 - [E] toledo
 - [E] vik
 - [E] vince
