@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] gavare
 - [E] gavin
 - [E] hibachi
-- [Q] hoyle
+- [D] hoyle
 - [Q] jdalbec
 - [Q] kopczynski
 - [Q] newbern

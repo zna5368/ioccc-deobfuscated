@@ -1,0 +1,64 @@
+#!/usr/bin/env bash
+#
+# try.sh - demonstrate IOCCC entry 2004/hoyle
+#
+
+# make sure CC is set so that when we do make CC="$CC" it isn't empty. Doing it
+# this way allows us to have the user specify a different compiler in an easy
+# way.
+if [[ -z "$CC" ]]; then
+    CC="cc"
+fi
+
+make CC="$CC" all >/dev/null || exit 1
+
+# clear screen after compilation so that only the entry is shown
+clear
+
+
+read -r -n 1 -p "Press any key to run: ./simple 10 0.5 (space = next page, q = quit): "
+echo 1>&2
+./simple 10 0.5 
+echo 1>&2
+
+read -r -n 1 -p "Press any key to run: ./simple 1 1 1 1 (space = next page, q = quit): "
+echo 1>&2
+./simple 1 1 1 1 
+echo 1>&2
+
+read -r -n 1 -p "Press any key to run: ./simple 2 0 1 0 -0.001 (space = next page, q = quit): "
+echo 1>&2
+./simple 2 0 1 0 -0.001 
+echo 1>&2
+
+read -r -n 1 -p "Press any key to run: ./simple 1 2 3 42 -0.42 (space = next page, q = quit): "
+echo 1>&2
+./simple 1 2 3 42 -0.42 
+echo 1>&2
+
+read -r -n 1 -p "Press any key to run: ./simple 42 42 42 42 42 42 (space = next page, q = quit): "
+echo 1>&2
+./simple 42 42 42 42 42 42 
+echo 1>&2
+
+read -r -n 1 -p "Press any key to run: ./simple 42 42 42 42 42 (space = next page, q = quit): "
+echo 1>&2
+./simple 42 42 42 42 42 
+echo 1>&2
+
+
+read -r -n 1 -p "Press any key to run: ./simple 0 0 1 | tee hoyle1.txt (space = next page, q = quit): "
+echo 1>&2
+./simple 0 0 1 | tee hoyle1.txt 
+echo 1>&2
+
+read -r -n 1 -p "Press any key to run: ./simple 0 0 2 | tee hoyle2.txt (space = next page, q = quit): "
+echo 1>&2
+./simple 0 0 2 | tee hoyle2.txt 
+echo 1>&2
+
+read -r -n 1 -p "Press any key to run: diff -s hoyle1.txt hoyle2.txt: "
+echo 1>&2
+diff -s hoyle1.txt hoyle2.txt
+echo "... why are they the same?"
+rm -f hoyle1.txt hoyle2.txt

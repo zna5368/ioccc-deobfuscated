@@ -92,6 +92,7 @@
 - 2001/westley
 - 2004/arachnid
 - 2004/hibachi
+- 2004/hoyle
 
 ## Hard
 
