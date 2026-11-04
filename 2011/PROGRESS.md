@@ -13,6 +13,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] hou
 - [D] konno
 - [D] richards
-- [Q] toledo
+- [E] toledo
 - [Q] vik
 - [Q] zucker
