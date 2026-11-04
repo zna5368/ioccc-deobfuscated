@@ -5,7 +5,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] birken
 - [E] borsanyi
 - [E] grothe
-- [Q] hamre
+- [D] hamre
 - [E] meyer
 - [Q] monge
 - [Q] night

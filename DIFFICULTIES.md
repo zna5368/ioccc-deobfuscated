@@ -184,6 +184,7 @@
 - 2005/vik
 - 2006/birken
 - 2006/borsanyi
+- 2006/hamre
 
 ## Insane
 
