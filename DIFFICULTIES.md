@@ -91,6 +91,7 @@
 - 2001/schweikh
 - 2001/westley
 - 2004/arachnid
+- 2004/hibachi
 
 ## Hard
 
