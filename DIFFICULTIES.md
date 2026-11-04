@@ -188,6 +188,7 @@
 - 2006/borsanyi
 - 2006/hamre
 - 2006/sykes1
+- 2006/sykes2
 
 ## Insane
 
