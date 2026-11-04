@@ -10,7 +10,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] fredriksson
 - [D] goren
 - [D] hamaji
-- [Q] hou
+- [D] hou
 - [D] konno
 - [Q] richards
 - [Q] toledo
