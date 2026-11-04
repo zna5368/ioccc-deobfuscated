@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] deckmyn
 - [E] dlowe
 - [Q] endoh1
-- [Q] endoh2
+- [D] endoh2
 - [Q] grothe
 - [Q] hamano
 - [Q] hou
