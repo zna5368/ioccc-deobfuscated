@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] giljade
 - [E] jetro
 - [D] klausler
-- [Q] mikeash
+- [D] mikeash
 - [Q] mynx
 - [Q] persano
 - [Q] sykes
