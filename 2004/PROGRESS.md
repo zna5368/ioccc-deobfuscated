@@ -10,7 +10,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] hibachi
 - [D] hoyle
 - [D] jdalbec
-- [Q] kopczynski
+- [D] kopczynski
 - [D] newbern
 - [D] omoikane
 - [Q] schnitzi
