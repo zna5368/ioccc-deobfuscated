@@ -13,6 +13,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] stewart
 - [D] sykes1
 - [E] sykes2
-- [Q] toledo1
+- [D] toledo1
 - [Q] toledo2
 - [Q] toledo3

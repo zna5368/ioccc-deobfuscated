@@ -104,6 +104,7 @@
 - 2006/meyer
 - 2006/sloane
 - 2006/stewart
+- 2006/toledo1
 
 ## Hard
 
