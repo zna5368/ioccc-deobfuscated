@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] akari
 - [D] blakely
-- [Q] borsanyi
+- [D] borsanyi
 - [Q] dlowe
 - [Q] eastman
 - [Q] fredriksson
