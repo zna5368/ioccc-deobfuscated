@@ -11,7 +11,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] hoyle
 - [D] jdalbec
 - [Q] kopczynski
-- [Q] newbern
+- [D] newbern
 - [Q] omoikane
 - [Q] schnitzi
 - [Q] sds
