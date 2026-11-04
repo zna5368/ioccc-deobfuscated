@@ -10,7 +10,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] jetro
 - [D] klausler
 - [D] mikeash
-- [Q] mynx
+- [E] mynx
 - [D] persano
 - [E] sykes
 - [Q] timwi
