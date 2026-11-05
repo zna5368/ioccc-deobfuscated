@@ -10,6 +10,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] maffiodo2
 - [D] morgan
 - [E] sinon
-- [Q] skeggs
+- [E] skeggs
 - [Q] vik
 - [Q] wiedijk

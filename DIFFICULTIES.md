@@ -220,6 +220,7 @@
 - 2013/morgan1
 - 2014/morgan
 - 2014/sinon
+- 2014/skeggs
 
 ## Insane
 
