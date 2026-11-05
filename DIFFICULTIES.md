@@ -246,6 +246,7 @@
 - 2013/misaka
 - 2013/robison
 - 2014/endoh1
+- 2015/dogon
 
 ## Terrifying
 

@@ -3,7 +3,7 @@
 D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] burton
-- [Q] dogon
+- [E] dogon
 - [Q] duble
 - [Q] endoh1
 - [Q] endoh2
