@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] deak
 - [D] endoh1
 - [D] endoh2
-- [Q] maffiodo1
+- [E] maffiodo1
 - [Q] maffiodo2
 - [Q] morgan
 - [Q] sinon
