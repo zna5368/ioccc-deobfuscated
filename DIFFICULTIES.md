@@ -222,6 +222,7 @@
 - 2011/zucker
 - 2012/deckmyn
 - 2012/hou
+- 2012/omoikane
 
 ## Terrifying
 
