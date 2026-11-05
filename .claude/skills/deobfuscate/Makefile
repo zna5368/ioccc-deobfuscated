@@ -23,8 +23,6 @@ basic:
 
 # Format the code so it looks nice
 
-	clang-format -i "simple.c"
-
 # create scripts used to verify the program works
 compare:
 
