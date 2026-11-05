@@ -231,6 +231,7 @@
 - 2012/omoikane
 - 2012/tromp
 - 2013/endoh4
+- 2013/misaka
 
 ## Terrifying
 

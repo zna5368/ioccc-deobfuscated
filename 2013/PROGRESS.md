@@ -11,7 +11,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] endoh4
 - [E] hou
 - [E] mills
-- [Q] misaka
+- [D] misaka
 - [Q] morgan1
 - [Q] morgan2
 - [Q] robison
