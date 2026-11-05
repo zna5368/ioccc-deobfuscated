@@ -244,6 +244,7 @@
 - 2011/hamaji
 - 2011/hou
 - 2011/richards
+- 2012/vik
 
 ## Catastrophic
 
