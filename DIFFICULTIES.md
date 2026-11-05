@@ -113,6 +113,7 @@
 - 2011/konno
 - 2012/grothe
 - 2012/konno
+- 2013/endoh3
 
 ## Hard
 
