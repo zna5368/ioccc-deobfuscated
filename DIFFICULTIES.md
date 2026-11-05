@@ -221,6 +221,7 @@
 - 2014/morgan
 - 2014/sinon
 - 2014/skeggs
+- 2014/wiedijk
 
 ## Insane
 

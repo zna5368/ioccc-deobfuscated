@@ -12,4 +12,4 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] sinon
 - [E] skeggs
 - [Q] vik
-- [Q] wiedijk
+- [E] wiedijk
