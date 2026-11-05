@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] dogon
 - [D] duble
 - [E] endoh1
-- [Q] endoh2
+- [D] endoh2
 - [Q] endoh3
 - [Q] endoh4
 - [Q] hou

@@ -119,6 +119,7 @@
 - 2013/morgan2
 - 2014/endoh2
 - 2014/maffiodo1
+- 2015/endoh2
 
 ## Hard
 
