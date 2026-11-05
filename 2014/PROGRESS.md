@@ -7,7 +7,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] endoh1
 - [D] endoh2
 - [E] maffiodo1
-- [Q] maffiodo2
+- [D] maffiodo2
 - [Q] morgan
 - [Q] sinon
 - [Q] skeggs
