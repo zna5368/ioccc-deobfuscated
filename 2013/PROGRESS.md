@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] cable1
 - [D] dlowe
 - [D] endoh1
-- [Q] endoh2
+- [E] endoh2
 - [Q] endoh3
 - [Q] endoh4
 - [Q] hou

@@ -209,6 +209,7 @@
 - 2012/hamano
 - 2012/kang
 - 2013/birken
+- 2013/endoh2
 
 ## Insane
 
