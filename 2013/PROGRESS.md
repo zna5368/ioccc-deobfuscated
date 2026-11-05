@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] endoh1
 - [E] endoh2
 - [D] endoh3
-- [Q] endoh4
+- [E] endoh4
 - [Q] hou
 - [Q] mills
 - [Q] misaka
