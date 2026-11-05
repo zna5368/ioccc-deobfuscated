@@ -116,6 +116,7 @@
 - 2012/konno
 - 2013/endoh3
 - 2013/morgan2
+- 2014/endoh2
 
 ## Hard
 
