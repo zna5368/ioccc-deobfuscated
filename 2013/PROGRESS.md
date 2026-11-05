@@ -1,0 +1,17 @@
+# 2013
+
+D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
+
+- [E] birken
+- [Q] cable1
+- [Q] dlowe
+- [Q] endoh1
+- [Q] endoh2
+- [Q] endoh3
+- [Q] endoh4
+- [Q] hou
+- [Q] mills
+- [Q] misaka
+- [Q] morgan1
+- [Q] morgan2
+- [Q] robison
