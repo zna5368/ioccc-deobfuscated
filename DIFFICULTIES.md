@@ -224,6 +224,7 @@
 - 2014/vik
 - 2014/wiedijk
 - 2015/burton
+- 2015/duble
 
 ## Insane
 
