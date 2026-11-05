@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] endoh2
 - [D] endoh3
 - [E] endoh4
-- [Q] hou
+- [E] hou
 - [Q] mills
 - [Q] misaka
 - [Q] morgan1
