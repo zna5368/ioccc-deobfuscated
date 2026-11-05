@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [E] birken
 - [D] cable1
-- [Q] dlowe
+- [D] dlowe
 - [Q] endoh1
 - [Q] endoh2
 - [Q] endoh3
