@@ -7,7 +7,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] duble
 - [E] endoh1
 - [D] endoh2
-- [Q] endoh3
+- [D] endoh3
 - [Q] endoh4
 - [Q] hou
 - [Q] howe

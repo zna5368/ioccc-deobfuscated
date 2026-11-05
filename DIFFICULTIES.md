@@ -226,6 +226,7 @@
 - 2014/wiedijk
 - 2015/burton
 - 2015/duble
+- 2015/endoh3
 
 ## Insane
 
