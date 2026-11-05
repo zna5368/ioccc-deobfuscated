@@ -245,6 +245,7 @@
 - 2011/hou
 - 2011/richards
 - 2012/vik
+- 2012/zeitak
 
 ## Catastrophic
 

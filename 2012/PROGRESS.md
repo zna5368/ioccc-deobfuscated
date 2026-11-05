@@ -15,4 +15,4 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] omoikane
 - [D] tromp
 - [D] vik
-- [Q] zeitak
+- [D] zeitak
