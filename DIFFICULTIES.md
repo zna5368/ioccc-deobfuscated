@@ -110,6 +110,7 @@
 - 2011/eastman
 - 2011/konno
 - 2012/grothe
+- 2012/konno
 
 ## Hard
 

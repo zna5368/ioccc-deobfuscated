@@ -11,7 +11,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] hamano
 - [D] hou
 - [D] kang
-- [Q] konno
+- [E] konno
 - [Q] omoikane
 - [Q] tromp
 - [Q] vik
