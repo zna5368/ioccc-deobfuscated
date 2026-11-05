@@ -2,7 +2,7 @@
 
 D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
-- [Q] birken
+- [P] birken
 - [E] deak
 - [D] endoh1
 - [D] endoh2
@@ -11,5 +11,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] morgan
 - [E] sinon
 - [E] skeggs
-- [Q] vik
+- [D] vik
 - [E] wiedijk
