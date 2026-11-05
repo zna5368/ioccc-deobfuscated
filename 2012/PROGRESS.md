@@ -13,6 +13,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] kang
 - [E] konno
 - [E] omoikane
-- [Q] tromp
+- [D] tromp
 - [Q] vik
 - [Q] zeitak
