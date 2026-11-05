@@ -121,6 +121,7 @@
 - 2014/maffiodo1
 - 2015/endoh2
 - 2015/endoh4
+- 2015/howe
 
 ## Hard
 
