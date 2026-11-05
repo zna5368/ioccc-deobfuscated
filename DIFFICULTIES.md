@@ -219,6 +219,7 @@
 - 2013/mills
 - 2013/morgan1
 - 2014/morgan
+- 2014/sinon
 
 ## Insane
 
