@@ -7,7 +7,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] ciura
 - [D] diels-grabsch1
 - [D] diels-grabsch2
-- [Q] dogon
+- [E] dogon
 - [Q] duble
 - [Q] endoh
 - [Q] giles

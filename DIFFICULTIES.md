@@ -273,6 +273,7 @@
 - 2015/yang
 - 2018/ciura
 - 2018/hou
+- 2019/dogon
 
 ## Terrifying
 
