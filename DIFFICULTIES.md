@@ -250,6 +250,7 @@
 - 2019/diels-grabsch2
 - 2019/giles
 - 2019/yang
+- 2020/endoh1
 - 2020/endoh2
 
 ## Insane
