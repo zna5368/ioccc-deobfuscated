@@ -11,7 +11,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] duble
 - [D] endoh
 - [D] giles
-- [Q] karns
+- [D] karns
 - [Q] lynn
 - [Q] mills
 - [Q] poikola

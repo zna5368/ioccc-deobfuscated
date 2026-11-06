@@ -129,6 +129,7 @@
 - 2018/ferguson
 - 2018/yang
 - 2019/burton
+- 2019/karns
 
 ## Hard
 
