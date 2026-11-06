@@ -126,6 +126,7 @@
 - 2015/howe
 - 2018/anderson
 - 2018/burton1
+- 2018/ferguson
 
 ## Hard
 
