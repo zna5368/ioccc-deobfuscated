@@ -265,6 +265,7 @@
 - 2020/otterness
 - 2024/burton
 - 2024/codemeow
+- 2024/ferguson2
 
 ## Insane
 
