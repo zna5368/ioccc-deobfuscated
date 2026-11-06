@@ -297,6 +297,7 @@
 - 2018/endoh2
 - 2018/mills
 - 2018/vokes
+- 2019/adamovsky
 
 ## Catastrophic
 
