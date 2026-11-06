@@ -133,6 +133,7 @@
 - 2020/burton
 - 2020/ferguson1
 - 2020/kurdyukov3
+- 2020/tsoj
 
 ## Hard
 
