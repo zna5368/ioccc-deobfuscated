@@ -125,6 +125,7 @@
 - 2015/endoh4
 - 2015/howe
 - 2018/anderson
+- 2018/burton1
 
 ## Hard
 
