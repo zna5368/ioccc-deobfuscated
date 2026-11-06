@@ -127,6 +127,7 @@
 - 2018/anderson
 - 2018/burton1
 - 2018/ferguson
+- 2018/yang
 
 ## Hard
 
