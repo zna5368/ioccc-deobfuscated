@@ -246,6 +246,7 @@
 - 2019/ciura
 - 2019/diels-grabsch1
 - 2019/diels-grabsch2
+- 2019/giles
 
 ## Insane
 

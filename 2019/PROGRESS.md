@@ -10,7 +10,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] dogon
 - [E] duble
 - [D] endoh
-- [Q] giles
+- [D] giles
 - [Q] karns
 - [Q] lynn
 - [Q] mills
