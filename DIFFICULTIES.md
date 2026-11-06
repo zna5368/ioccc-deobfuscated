@@ -244,6 +244,7 @@
 - 2018/giles
 - 2018/poikola
 - 2019/ciura
+- 2019/diels-grabsch2
 
 ## Insane
 

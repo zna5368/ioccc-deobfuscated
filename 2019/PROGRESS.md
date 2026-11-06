@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] burton
 - [D] ciura
 - [Q] diels-grabsch1
-- [Q] diels-grabsch2
+- [D] diels-grabsch2
 - [Q] dogon
 - [Q] duble
 - [Q] endoh
