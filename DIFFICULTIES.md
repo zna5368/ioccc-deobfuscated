@@ -326,6 +326,7 @@
 - 2018/vokes
 - 2019/adamovsky
 - 2024/cable1
+- 2024/carlini
 
 ## Catastrophic
 
