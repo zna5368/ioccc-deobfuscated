@@ -243,6 +243,7 @@
 - 2018/endoh1
 - 2018/giles
 - 2018/poikola
+- 2019/ciura
 
 ## Insane
 
