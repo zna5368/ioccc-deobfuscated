@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] carlini
 - [Q] codemeow
 - [D] endoh1
-- [Q] endoh2
+- [E] endoh2
 - [Q] ferguson1
 - [Q] ferguson2
 - [Q] howe
