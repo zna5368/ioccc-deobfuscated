@@ -131,6 +131,7 @@
 - 2019/burton
 - 2019/karns
 - 2020/burton
+- 2020/ferguson1
 
 ## Hard
 
