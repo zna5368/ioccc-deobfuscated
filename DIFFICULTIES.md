@@ -274,6 +274,7 @@
 - 2018/ciura
 - 2018/hou
 - 2019/dogon
+- 2019/duble
 
 ## Terrifying
 

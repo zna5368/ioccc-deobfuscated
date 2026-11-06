@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] diels-grabsch1
 - [D] diels-grabsch2
 - [E] dogon
-- [Q] duble
+- [E] duble
 - [Q] endoh
 - [Q] giles
 - [Q] karns
