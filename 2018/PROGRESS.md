@@ -11,7 +11,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] endoh1
 - [E] endoh2
 - [E] ferguson
-- [Q] giles
+- [E] giles
 - [Q] hou
 - [Q] mills
 - [Q] poikola
