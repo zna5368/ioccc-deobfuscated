@@ -12,7 +12,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] giles
 - [D] kurdyukov1
 - [E] kurdyukov2
-- [Q] kurdyukov3
+- [E] kurdyukov3
 - [Q] kurdyukov4
 - [Q] otterness
 - [Q] tsoj
