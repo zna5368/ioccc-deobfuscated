@@ -278,6 +278,7 @@
 - 2019/dogon
 - 2019/duble
 - 2019/endoh
+- 2019/poikola
 
 ## Terrifying
 
