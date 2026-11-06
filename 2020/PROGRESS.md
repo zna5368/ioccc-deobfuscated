@@ -5,7 +5,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] burton
 - [D] carlini
 - [Q] endoh1
-- [Q] endoh2
+- [D] endoh2
 - [Q] endoh3
 - [Q] ferguson1
 - [Q] ferguson2
