@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] endoh3
 - [E] ferguson1
 - [D] ferguson2
-- [Q] giles
+- [D] giles
 - [Q] kurdyukov1
 - [Q] kurdyukov2
 - [Q] kurdyukov3
