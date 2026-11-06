@@ -4,7 +4,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] algmyr
 - [D] anderson
-- [Q] bellard
+- [D] bellard
 - [Q] burton1
 - [Q] burton2
 - [Q] ciura
