@@ -15,5 +15,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] hou
 - [Q] mills
 - [D] poikola
-- [Q] vokes
+- [D] vokes
 - [Q] yang
