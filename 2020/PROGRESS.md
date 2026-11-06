@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] carlini
 - [E] endoh1
 - [D] endoh2
-- [Q] endoh3
+- [E] endoh3
 - [Q] ferguson1
 - [Q] ferguson2
 - [Q] giles

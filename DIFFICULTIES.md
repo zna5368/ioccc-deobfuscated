@@ -252,6 +252,7 @@
 - 2019/yang
 - 2020/endoh1
 - 2020/endoh2
+- 2020/endoh3
 
 ## Insane
 
