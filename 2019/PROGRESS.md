@@ -12,7 +12,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] endoh
 - [D] giles
 - [D] karns
-- [Q] lynn
-- [Q] mills
-- [Q] poikola
-- [Q] yang
+- [D] lynn
+- [P] mills
+- [P] poikola
+- [P] yang
