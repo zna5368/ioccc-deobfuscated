@@ -13,6 +13,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] giles
 - [D] karns
 - [D] lynn
-- [P] mills
+- [D] mills
 - [P] poikola
 - [P] yang
