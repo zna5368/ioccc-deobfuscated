@@ -16,4 +16,4 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] kurdyukov4
 - [D] otterness
 - [E] tsoj
-- [Q] yang
+- [D] yang

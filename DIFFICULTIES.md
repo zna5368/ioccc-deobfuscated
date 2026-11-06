@@ -293,6 +293,7 @@
 - 2019/duble
 - 2019/endoh
 - 2019/poikola
+- 2020/yang
 
 ## Terrifying
 
