@@ -41,6 +41,8 @@
 - 2013/dlowe
 - 2014/deak
 - 2014/maffiodo2
+- 2015/mills1
+- 2015/schweikhardt
 
 ## Medium
 
@@ -255,6 +257,7 @@
 - 2014/endoh1
 - 2015/dogon
 - 2015/endoh1
+- 2015/yang
 
 ## Terrifying
 

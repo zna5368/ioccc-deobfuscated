@@ -11,8 +11,8 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] endoh4
 - [D] hou
 - [E] howe
-- [Q] mills1
+- [E] mills1
 - [D] mills2
 - [D] muth
-- [Q] schweikhardt
-- [Q] yang
+- [D] schweikhardt
+- [E] yang
