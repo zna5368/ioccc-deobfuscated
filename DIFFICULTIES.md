@@ -240,6 +240,7 @@
 - 2018/bellard
 - 2018/endoh1
 - 2018/giles
+- 2018/poikola
 
 ## Insane
 
