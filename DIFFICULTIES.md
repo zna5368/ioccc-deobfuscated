@@ -233,6 +233,7 @@
 - 2015/endoh3
 - 2015/hou
 - 2015/mills2
+- 2018/algmyr
 
 ## Insane
 
