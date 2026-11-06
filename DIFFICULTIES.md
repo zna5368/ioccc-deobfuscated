@@ -275,6 +275,7 @@
 - 2018/hou
 - 2019/dogon
 - 2019/duble
+- 2019/endoh
 
 ## Terrifying
 
