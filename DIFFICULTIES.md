@@ -262,6 +262,7 @@
 - 2015/dogon
 - 2015/endoh1
 - 2015/yang
+- 2018/ciura
 
 ## Terrifying
 
