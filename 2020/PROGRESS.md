@@ -13,7 +13,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] kurdyukov1
 - [E] kurdyukov2
 - [E] kurdyukov3
-- [Q] kurdyukov4
+- [D] kurdyukov4
 - [Q] otterness
 - [Q] tsoj
 - [Q] yang
