@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] cable1
 - [D] cable2
 - [D] carlini
-- [Q] codemeow
+- [E] codemeow
 - [D] endoh1
 - [E] endoh2
 - [Q] ferguson1
