@@ -13,7 +13,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] ferguson
 - [E] giles
 - [D] hou
-- [Q] mills
+- [E] mills
 - [D] poikola
 - [D] vokes
 - [D] yang
