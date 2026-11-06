@@ -14,6 +14,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] kurdyukov2
 - [E] kurdyukov3
 - [D] kurdyukov4
-- [Q] otterness
+- [D] otterness
 - [Q] tsoj
 - [Q] yang
