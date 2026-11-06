@@ -3,7 +3,7 @@
 D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] adamovsky
-- [Q] burton
+- [D] burton
 - [Q] ciura
 - [Q] diels-grabsch1
 - [Q] diels-grabsch2
