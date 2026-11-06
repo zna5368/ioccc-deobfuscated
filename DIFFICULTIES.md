@@ -296,6 +296,7 @@
 - 2019/endoh
 - 2019/poikola
 - 2020/yang
+- 2024/endoh1
 
 ## Terrifying
 
