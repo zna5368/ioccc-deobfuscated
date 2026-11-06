@@ -237,6 +237,7 @@
 - 2015/mills2
 - 2018/algmyr
 - 2018/bellard
+- 2018/endoh1
 
 ## Insane
 
