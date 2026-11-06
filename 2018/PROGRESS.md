@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] burton2
 - [D] ciura
 - [D] endoh1
-- [Q] endoh2
+- [E] endoh2
 - [Q] ferguson
 - [Q] giles
 - [Q] hou
