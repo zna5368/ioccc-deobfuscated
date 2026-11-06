@@ -266,6 +266,7 @@
 - 2015/endoh1
 - 2015/yang
 - 2018/ciura
+- 2018/hou
 
 ## Terrifying
 

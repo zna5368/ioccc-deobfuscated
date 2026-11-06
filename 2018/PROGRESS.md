@@ -12,7 +12,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] endoh2
 - [E] ferguson
 - [E] giles
-- [Q] hou
+- [D] hou
 - [Q] mills
 - [Q] poikola
 - [Q] vokes
