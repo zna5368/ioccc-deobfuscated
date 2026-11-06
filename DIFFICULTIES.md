@@ -325,6 +325,7 @@
 - 2018/mills
 - 2018/vokes
 - 2019/adamovsky
+- 2024/cable1
 
 ## Catastrophic
 

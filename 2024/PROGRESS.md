@@ -3,7 +3,7 @@
 D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [D] burton
-- [Q] cable1
+- [E] cable1
 - [D] cable2
 - [D] carlini
 - [Q] codemeow
