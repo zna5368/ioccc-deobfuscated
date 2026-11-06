@@ -11,7 +11,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] ferguson2
 - [D] giles
 - [D] kurdyukov1
-- [Q] kurdyukov2
+- [E] kurdyukov2
 - [Q] kurdyukov3
 - [Q] kurdyukov4
 - [Q] otterness

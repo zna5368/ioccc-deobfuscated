@@ -257,6 +257,7 @@
 - 2020/ferguson2
 - 2020/giles
 - 2020/kurdyukov1
+- 2020/kurdyukov2
 
 ## Insane
 
