@@ -141,6 +141,7 @@
 - 2024/stedolan
 - 2024/weaver
 - 2025/jhshrvdp
+- 2025/jingp49
 
 ## Hard
 
