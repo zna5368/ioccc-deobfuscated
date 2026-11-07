@@ -4,7 +4,8 @@ This repository has every IOCCC entry deobfuscated by Claude.
 
 ## What's New?
 
-Each entry now has a deobfuscated simple.c source file in its directory.
+Each entry now has in its directory a deobfuscated simple.c source file and a
+TECHNIQUES.md which describes its obfuscation techniques.
 
 The DIFFICULTIES.md file lists each entry under an obfuscation level. The levels
 are easy, medium, hard, insane, terrifying, catastrophic, horrific, and unreal.
