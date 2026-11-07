@@ -9,9 +9,9 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] dogon
 - [E] endoh1
 - [E] endoh2
-- [Q] endoh3
-- [Q] howe
-- [Q] jhshrvdp
+- [D] endoh3
+- [P] howe
+- [P] jhshrvdp
 - [Q] jingp49
 - [Q] kurdyukov
 - [Q] mattpep

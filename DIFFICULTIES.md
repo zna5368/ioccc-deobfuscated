@@ -281,6 +281,7 @@
 - 2025/diels-grabsch
 - 2025/endoh1
 - 2025/endoh2
+- 2025/endoh3
 
 ## Insane
 
