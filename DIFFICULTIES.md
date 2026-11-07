@@ -138,6 +138,7 @@
 - 2024/kramer
 - 2024/kurdyukov1
 - 2024/stedolan
+- 2024/weaver
 
 ## Hard
 
