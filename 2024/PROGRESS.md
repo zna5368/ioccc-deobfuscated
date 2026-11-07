@@ -22,6 +22,6 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] mills
 - [D] stedolan
 - [D] straadt
-- [Q] tmarrec
+- [D] tmarrec
 - [D] tompng
 - [E] weaver
