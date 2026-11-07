@@ -303,6 +303,7 @@
 - 2020/yang
 - 2024/endoh1
 - 2024/endoh2
+- 2024/kurdyukov2
 
 ## Terrifying
 
