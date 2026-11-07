@@ -14,7 +14,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] jhshrvdp
 - [D] jingp49
 - [D] kurdyukov
-- [Q] mattpep
+- [D] mattpep
 - [Q] ncw1
 - [Q] ncw2
 - [Q] ncw3
