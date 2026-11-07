@@ -278,6 +278,7 @@
 - 2024/tmarrec
 - 2024/tompng
 - 2025/cable
+- 2025/diels-grabsch
 
 ## Insane
 
