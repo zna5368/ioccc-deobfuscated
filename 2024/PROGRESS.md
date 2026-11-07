@@ -13,7 +13,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] ferguson2
 - [E] howe
 - [D] kramer
-- [Q] kurdyukov1
+- [D] kurdyukov1
 - [Q] kurdyukov2
 - [Q] kurdyukov3
 - [Q] kurdyukov4

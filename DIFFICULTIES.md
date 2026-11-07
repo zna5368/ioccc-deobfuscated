@@ -136,6 +136,7 @@
 - 2020/kurdyukov3
 - 2020/tsoj
 - 2024/kramer
+- 2024/kurdyukov1
 
 ## Hard
 
