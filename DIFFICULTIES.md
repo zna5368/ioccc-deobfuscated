@@ -269,6 +269,7 @@
 - 2024/codemeow
 - 2024/ferguson2
 - 2024/howe
+- 2024/kurdyukov3
 
 ## Insane
 

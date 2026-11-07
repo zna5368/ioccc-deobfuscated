@@ -15,7 +15,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] kramer
 - [D] kurdyukov1
 - [D] kurdyukov2
-- [Q] kurdyukov3
+- [D] kurdyukov3
 - [Q] kurdyukov4
 - [Q] macke
 - [Q] maffiodo
