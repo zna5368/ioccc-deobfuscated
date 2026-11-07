@@ -19,7 +19,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] ncw2
 - [D] ncw3
 - [Q] tompng
-- [Q] uellenberg
+- [E] uellenberg
 - [Q] yang1
 - [Q] yang2
 - [Q] yang3
