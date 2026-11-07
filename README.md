@@ -9,6 +9,8 @@ Each entry now has a deobfuscated simple.c source file in its directory.
 The DIFFICULTIES.md file lists each entry under an obfuscation level. The levels
 are easy, medium, hard, insane, terrifying, catastrophic, horrific, and unreal.
 
+## Analysis
+
 Here is a graph I made in LibreOffice which shows the number of entries for
 each difficulty by year.
 
@@ -16,6 +18,10 @@ each difficulty by year.
 
 NOTE: there are two catastrophic and horrific entries in 2001 which overlap with
 each other.
+
+According to Claude, the most heavily obfuscated entry out of everything in the
+IOCCC is 2019/lynn. It is the only entry which was assigned the highest unreal
+difficulty level.
 
 ## What Did I Make?
 
@@ -29,6 +35,12 @@ A few entries were removed by me explicitly and are missing from this
 repository. The entries 2013/cable2, 2013/cable3, 2025/ferguson were removed
 because they take a lot of storage. The entry birken/2014 was removed because I
 didn't want to give the agent access to the network for it to run tests.
+
+## Half Deobfuscated Entries
+
+Quines cannot really be completely deobfuscated because the the string used to
+print the new program, which is often a large portion of the entry, cannot be
+changed or the output will not match the original prog.c.
 
 ## How Was It Done?
 
@@ -83,16 +95,6 @@ byte-by-byte comparison between the original binary and simple, some agents
 wrote a fake Xlib/SDL/curses library to log drawing calls since there is no
 graphical environment, and some attempted to make programs nondeterministic by
 overriding `time()`, `getpid()`, and `rand()` with their own library.
-
-## Analysis
-
-Quines cannot really be completely deobfuscated because the the string used to
-print the new program, which is often a large portion of the entry, cannot be
-changed or the output will not match the original prog.c.
-
-According to Claude, the most heavily obfuscated entry out of everything in the
-IOCCC is 2017/lynn. It is the only entry which was assigned the highest unreal
-difficulty level.
 
 ## Will I Add Future Entries?
 
