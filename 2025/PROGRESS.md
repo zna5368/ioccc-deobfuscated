@@ -10,7 +10,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] endoh1
 - [E] endoh2
 - [D] endoh3
-- [P] howe
+- [E] howe
 - [P] jhshrvdp
 - [Q] jingp49
 - [Q] kurdyukov
