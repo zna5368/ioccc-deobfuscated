@@ -333,6 +333,7 @@
 - 2019/adamovsky
 - 2024/cable1
 - 2024/carlini
+- 2024/ferguson1
 
 ## Catastrophic
 

@@ -9,7 +9,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] codemeow
 - [D] endoh1
 - [E] endoh2
-- [Q] ferguson1
+- [E] ferguson1
 - [D] ferguson2
 - [E] howe
 - [D] kramer
