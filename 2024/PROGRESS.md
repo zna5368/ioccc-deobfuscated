@@ -23,5 +23,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] stedolan
 - [D] straadt
 - [Q] tmarrec
-- [Q] tompng
+- [D] tompng
 - [Q] weaver
