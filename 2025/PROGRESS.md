@@ -6,7 +6,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] cable
 - [P] cesmoak
 - [D] diels-grabsch
-- [Q] dogon
+- [D] dogon
 - [Q] endoh1
 - [Q] endoh2
 - [Q] endoh3
