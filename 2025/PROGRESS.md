@@ -11,7 +11,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [E] endoh2
 - [D] endoh3
 - [E] howe
-- [P] jhshrvdp
+- [E] jhshrvdp
 - [Q] jingp49
 - [Q] kurdyukov
 - [Q] mattpep

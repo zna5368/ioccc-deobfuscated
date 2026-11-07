@@ -140,6 +140,7 @@
 - 2024/kurdyukov1
 - 2024/stedolan
 - 2024/weaver
+- 2025/jhshrvdp
 
 ## Hard
 
