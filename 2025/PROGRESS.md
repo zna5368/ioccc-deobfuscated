@@ -3,7 +3,7 @@
 D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 
 - [E] ayu
-- [Q] cable
+- [E] cable
 - [P] cesmoak
 - [Q] diels-grabsch
 - [Q] dogon

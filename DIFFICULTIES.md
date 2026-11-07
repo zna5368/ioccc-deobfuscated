@@ -277,6 +277,7 @@
 - 2024/straadt
 - 2024/tmarrec
 - 2024/tompng
+- 2025/cable
 
 ## Insane
 
