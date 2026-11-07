@@ -280,6 +280,7 @@
 - 2025/cable
 - 2025/diels-grabsch
 - 2025/endoh1
+- 2025/endoh2
 
 ## Insane
 

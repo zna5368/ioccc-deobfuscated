@@ -8,7 +8,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] diels-grabsch
 - [D] dogon
 - [E] endoh1
-- [Q] endoh2
+- [E] endoh2
 - [Q] endoh3
 - [Q] howe
 - [Q] jhshrvdp
