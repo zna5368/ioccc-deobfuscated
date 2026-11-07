@@ -75,7 +75,7 @@ kind of like programming because writing the prompts is just writing
 instructions, but a lot of the times my instructions would cause things that I
 didn't expect.
 
-In context window that I deobfuscated multiple years, after the coordinator
+In a context window that I deobfuscated multiple years, after the coordinator
 finished /coordinate 2014 it started on 2015 without me prompting it.
 
 The deobfuscator would often do verification beyond try.sh. Some did a
@@ -89,6 +89,10 @@ overriding `time()`, `getpid()`, and `rand()` with their own library.
 Quines cannot really be completely deobfuscated because the the string used to
 print the new program, which is often a large portion of the entry, cannot be
 changed or the output will not match the original prog.c.
+
+According to Claude, the most heavily obfuscated entry out of everything in the
+IOCCC is 2017/lynn. It is the only entry which was assigned the highest unreal
+difficulty level.
 
 ## Will I Add Future Entries?
 
