@@ -21,5 +21,5 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] tompng
 - [E] uellenberg
 - [E] yang1
-- [Q] yang2
+- [D] yang2
 - [Q] yang3
