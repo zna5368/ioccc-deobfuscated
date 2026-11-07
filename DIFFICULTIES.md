@@ -346,6 +346,7 @@
 - 2024/ferguson1
 - 2024/macke
 - 2024/mills
+- 2025/ayu
 
 ## Catastrophic
 
