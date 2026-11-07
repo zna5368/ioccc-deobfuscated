@@ -18,7 +18,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] kurdyukov3
 - [E] kurdyukov4
 - [Q] macke
-- [Q] maffiodo
+- [D] maffiodo
 - [Q] mills
 - [Q] stedolan
 - [Q] straadt
