@@ -21,7 +21,7 @@ D - deobfuscated, E - unverified, P - in progress, F - failed, Q - not started
 - [D] maffiodo
 - [E] mills
 - [D] stedolan
-- [Q] straadt
+- [D] straadt
 - [Q] tmarrec
 - [Q] tompng
 - [Q] weaver
