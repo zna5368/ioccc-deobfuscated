@@ -367,6 +367,7 @@
 - 2001/herrmann1
 - 2013/endoh1
 - 2020/carlini
+- 2025/cesmoak
 
 ## Horrific
 
