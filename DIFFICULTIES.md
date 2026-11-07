@@ -285,6 +285,7 @@
 - 2025/endoh1
 - 2025/endoh2
 - 2025/endoh3
+- 2025/kurdyukov
 
 ## Insane
 
